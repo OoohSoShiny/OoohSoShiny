@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OoohSoShiny
-- 👀 I’m interested in programming software and eventual unity
+- 👀 I’m interested in programming software and eventually games in unity
 - 🌱 I’m currently preparing for training as software engineer which starts august and will take 2 years. I'm focusing on C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Ghosttalker2@web.de is a good start
